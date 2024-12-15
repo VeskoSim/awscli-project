@@ -1,0 +1,115 @@
+{
+  "MovieReleases": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Title": {"S": "Furiosa: A Mad Max Saga"},
+          "Genre": {"S": "Action, Adventure, Sci-Fi"},
+          "ReleaseDate": {"S": "2024-05-24"},
+          "Rating": {"S": "R"},
+          "Runtime": {"S": "148 minutes"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Title": {"S": "I Saw the TV Glow"},
+          "Genre": {"S": "Horror, Thriller"},
+          "ReleaseDate": {"S": "2024-05-03"},
+          "Rating": {"S": "PG-13"},
+          "Runtime": {"S": "100 minutes"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Title": {"S": "Rebel Ridge"},
+          "Genre": {"S": "Thriller, Action"},
+          "ReleaseDate": {"S": "2024-09-06"},
+          "Rating": {"S": "NR"},
+          "Runtime": {"S": "131 minutes"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Title": {"S": "Between the Temples"},
+          "Genre": {"S": "Comedy, Drama"},
+          "ReleaseDate": {"S": "2024-08-23"},
+          "Rating": {"S": "R"},
+          "Runtime": {"S": "111 minutes"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Title": {"S": "A Different Man"},
+          "Genre": {"S": "Drama, Thriller"},
+          "ReleaseDate": {"S": "2024"},
+          "Rating": {"S": "R"},
+          "Runtime": {"S": "112 minutes"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Title": {"S": "Longlegs"},
+          "Genre": {"S": "Horror, Mystery"},
+          "ReleaseDate": {"S": "2024-07-12"},
+          "Rating": {"S": "R"},
+          "Runtime": {"S": "101 minutes"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Title": {"S": "Good One"},
+          "Genre": {"S": "Comedy, Drama"},
+          "ReleaseDate": {"S": "2024-08-09"},
+          "Rating": {"S": "R"},
+          "Runtime": {"S": "90 minutes"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Title": {"S": "Daughters"},
+          "Genre": {"S": "Drama"},
+          "ReleaseDate": {"S": "2024"},
+          "Rating": {"S": "NR"},
+          "Runtime": {"S": "N/A"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Title": {"S": "Janet Planet"},
+          "Genre": {"S": "Drama, Family"},
+          "ReleaseDate": {"S": "2024-06-21"},
+          "Rating": {"S": "PG-13"},
+          "Runtime": {"S": "113 minutes"}
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Title": {"S": "Evil Does Not Exist"},
+          "Genre": {"S": "Drama, Mystery"},
+          "ReleaseDate": {"S": "2024-05-03"},
+          "Rating": {"S": "NR"},
+          "Runtime": {"S": "106 minutes"}
+        }
+      }
+    }
+  ]
+}
+
